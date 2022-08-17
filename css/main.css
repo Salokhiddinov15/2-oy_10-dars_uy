@@ -1,0 +1,161 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+} /*# sourceMappingURL=main.css.map */
+
+body {
+  font-family: "Open Sans";
+}
+.header_card {
+  width: 85%;
+  height: 40px;
+  /* background-color: aqua; */
+  display: flex;
+  margin: auto;
+  justify-content: space-between;
+  margin-top: 40px;
+}
+
+.nav_text {
+  display: flex;
+  text-decoration: none;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.nav_text_one {
+  margin-left: 40px;
+  list-style: none;
+}
+
+.nav_button {
+  border: 1px solid #999999;
+  border-radius: 35px;
+  padding: 10px 24px;
+}
+
+.hero {
+  width: 85%;
+  height: 884px;
+  /* background-color: aqua; */
+  margin: auto;
+  margin-top: 100px;
+}
+
+.hero_one {
+  width: 646px;
+}
+
+h1 {
+  font-weight: 600;
+  font-size: 60px;
+  line-height: 80px;
+  color: #000000;
+}
+
+.hero_one_text {
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 32px;
+  color: #555555;
+  margin-top: 30px;
+}
+
+.hero_card {
+  display: flex;
+  justify-content: space-between;
+}
+.hero_two {
+  width: 500px;
+  height: 252px;
+  /* background: dodgerblue; */
+  box-shadow: 0px 22px 38px rgba(0, 34, 19, 0.04);
+  border-radius: 20px;
+}
+
+.hero_button_one {
+  padding: 12px 46px;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 32px;
+  color: #222222;
+  background: #fafafa;
+  border-radius: 8px;
+  margin-right: 20px;
+  margin: 50px 10px 40px 20px;
+}
+
+.hero_vector_one {
+  padding-right: 13px;
+  margin-left: -23px;
+}
+
+.hero_input {
+  padding: 12px 102px 12px 54px;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 32px;
+  color: #222222;
+  background: #fafafa;
+  border-radius: 8px;
+  margin: 0px 20px 0px 20px;
+}
+
+.hero_button_lupa {
+  /* width: 56px;
+  height: 56px; */
+  /* margin: -8px 0px 0px -20px; */
+  position: relative;
+}
+
+.fa-magnifying-glass {
+  padding: 24px;
+  background: #3771c8;
+  border-radius: 8px;
+  margin: -39px 0px 0px -76px;
+  /* margin-left: -76px;
+  margin-top: -5px; */
+  position: absolute;
+}
+
+.hero_three {
+  width: 85%;
+  display: flex;
+  justify-content: space-between;
+  margin-top: 42px;
+  position: relative;
+}
+
+.hero_three_one {
+  position: relative;
+  display: flex;
+}
+.h2 {
+  display: flex;
+  position: absolute;
+  font-weight: 600;
+  font-size: 48px;
+  line-height: 60px;
+  color: #ffffff;
+  margin-top: 479px;
+  margin-left: 184px;
+}
+
+.hero_image_one {
+  background: url(greg-rivers-rChFUMwAe7E-unsplash.jpg);
+  border-radius: 16px;
+}
+.hero_three_two {
+  margin-left: 28px;
+}
+.hero_image_two {
+  background: url(type-entertainment-complex_146671-19405.jpg);
+  border-radius: 16px;
+}
+
+.hero_image_three {
+  margin-top: 16px;
+  background: url(type-entertainment-complex_146671-19405.jpg);
+  border-radius: 16px;
+}

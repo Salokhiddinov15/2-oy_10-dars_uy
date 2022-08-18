@@ -15,6 +15,16 @@ body {
   margin: auto;
   justify-content: space-between;
   margin-top: 40px;
+
+  margin-top: -100px;
+  margin-left: 113px;
+  position: absolute;
+  /* margin: auto; */ 
+  position: fixed;
+  background-color:rgba(239, 212, 212, 0.6);
+  backdrop-filter: blur(10px) saturate(200%);
+  z-index: 15;
+
 }
 
 .nav_text {
@@ -107,6 +117,7 @@ h1 {
   height: 56px; */
   /* margin: -8px 0px 0px -20px; */
   position: relative;
+  z-index: 3;
 }
 
 .fa-magnifying-glass {

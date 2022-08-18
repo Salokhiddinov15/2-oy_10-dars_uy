@@ -19,7 +19,6 @@ body {
   margin-top: -100px;
   margin-left: 113px;
   position: absolute;
-  /* margin: auto; */ 
   position: fixed;
   background-color:rgba(239, 212, 212, 0.6);
   backdrop-filter: blur(10px) saturate(200%);
